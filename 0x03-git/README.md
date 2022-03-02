@@ -1,1 +1,1 @@
-My second readme
+This is the first Git Project
